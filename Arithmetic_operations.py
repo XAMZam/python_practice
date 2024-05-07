@@ -1,3 +1,6 @@
+#operators
+#arithmetic operators-Arithmetic operators are used to perform mathematical operations like addition, subtraction, multiplication, etc. For example,
+#Here, - is an arithmetic operator that subtracts two values or variables.
 #addition
 x=20
 y=10
@@ -61,12 +64,6 @@ x=20j
 y=0j
 result=x+y
 print(result)  
-
-
-#operators
-#arithmetic operators-Arithmetic operators are used to perform mathematical operations like addition, subtraction, multiplication, etc. For example,
-#Here, - is an arithmetic operator that subtracts two values or variables.
-
 
 #assignment operators-Assignment operators are used to assign values to variables. For example,
 #Here, = is an assignment operator that assigns 5 to x.
